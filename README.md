@@ -340,5 +340,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **🌊 Building Water Security for India, One Smart Recommendation at a Time! 🇮🇳**
-#   R o o f T o p R a i n W a t e r M a n a g e m e n t  
- 
+#
